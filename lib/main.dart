@@ -17,6 +17,8 @@ import 'screens/main_navigation_screen.dart';
 import 'services/cache_manager.dart';
 import 'services/coingecko_api_service.dart';
 
+
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
